@@ -1,8 +1,9 @@
 # Morpion
 
-Jeu de morpion en ruby qui se joue à 2
-pour lancer le jeu `ruby app.rb`
-
+Jeu de morpion en ruby qui se joue à 2.
+Pour lancer le jeu `ruby app.rb`.
+Pour jouer il suffit de rentrer la colonne suivi de la ligne pour jouer sur cette case:
+ex: `a1` / `b3` / `c2`
 
 ## class Game
 
